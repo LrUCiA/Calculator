@@ -3,7 +3,7 @@
 <!--구분-->
 Description
 ---
-With using MVC pattern, I tried to make the roles of each layer to be clearly distinguished.
+With using MVC pattern, I tried to make roles of each layer to be clearly distinguished.
 <!--구분-->
 Screenshot 
 ---
