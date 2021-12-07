@@ -2,7 +2,7 @@
 //  CalculatorMain.swift
 //  CalculatorSelf
 //
-//  Created by 장명근 on 2021/11/14.
+//  Created by LrUCiA on 2021/11/14.
 //
 
 import Foundation
