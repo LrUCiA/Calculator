@@ -1,9 +1,9 @@
 # Calculator <img src="https://img.shields.io/badge/SWIFT-5.5-lightgrey?style=flat-square&logo=Swift&logoColor=white"/></a>
->*Simple Calculator for IOS*.
+>*Simple Calculator for IOS.*
 <!--구분-->
 Description
 ---
-With using MVC pattern, I tried to make roles of each layer to be clearly distinguished.
+>*With using MVC pattern, I tried to make roles of each layer to be clearly distinguished.*
 <!--구분-->
 Screenshot 
 ---
