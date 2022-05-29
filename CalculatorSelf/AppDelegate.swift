@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CalculatorSelf
 //
-//  Created by LrUCiA on 2021/11/13.
+//  Created by LrUCiA.
 //
 
 import UIKit
